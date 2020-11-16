@@ -1,5 +1,8 @@
 # KIMOCHISM 気持ち
 
+## Description
+E-commerce de roupas geek e nerd feito em VUE
+
 ## Setup do Projeto
 ```
 git clone kimo-web
